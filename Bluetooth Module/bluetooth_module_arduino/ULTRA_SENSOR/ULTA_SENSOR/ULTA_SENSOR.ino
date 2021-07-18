@@ -20,8 +20,8 @@ void loop() {
   t=pulseIn(echo,1) ;
   d = (t*.0343)/2;
   if (d<=350){
+    delay(3000);
     Serial.write('A');
-    delay(20);
  } 
  else {
    Serial.write('B');
