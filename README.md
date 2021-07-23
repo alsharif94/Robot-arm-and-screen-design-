@@ -97,3 +97,77 @@ A ten-microsecond pulse is applied to the trigger pin. As a result, the sensor s
 
 ![image](https://user-images.githubusercontent.com/85449693/126735607-577e1619-5466-4bad-93ca-839db0eac5e6.png)
 
+
+Interfacing Bluetooth HC-05 module with Arduino 
+
+
+•	Pin function 
+
+![image](https://user-images.githubusercontent.com/85449693/126840088-f42982c9-8bf5-4ae2-877a-ecc85e523c5c.png)
+
+![image](https://user-images.githubusercontent.com/85449693/126840178-7543f0b2-44f2-4d19-a26d-d1fd51210ba1.png)
+
+
+•	Schematic diagram 
+
+![image](https://user-images.githubusercontent.com/85449693/126840228-4db499d5-0579-4385-8ea8-99f0ecaa6ae3.png)
+
+
+
+•	The main goal
+The main goal of the tasks is to move the robot arm and turn on the screen if an object is standing next to the robot for three seconds
+
+
+•	Schematic diagram 
+
+![image](https://user-images.githubusercontent.com/85449693/126840265-3062680f-41e2-439e-9468-1470b9663ab4.png)
+
+
+
+1.	Six servo motors
+
+![image](https://user-images.githubusercontent.com/85449693/126840333-76d5b693-f770-41a5-8e4c-c95e92fab5c2.png)
+
+
+
+
+2.Two	Microcontrollers (Arduino)
+
+![image](https://user-images.githubusercontent.com/85449693/126840402-f7c67159-4e28-4042-8d1c-0a84d38d098a.png)
+
+
+
+
+3.	Battery 
+
+![image](https://user-images.githubusercontent.com/85449693/126840422-0c55b53d-77eb-4a31-88db-0f408f8e007d.png)
+
+
+
+4.	Wires 
+
+![image](https://user-images.githubusercontent.com/85449693/126840431-75316900-ba0f-488a-a8f5-d27985c3b675.png)
+
+
+
+5.	Two HC-05 Bluetooth modules 
+
+![image](https://user-images.githubusercontent.com/85449693/126840454-d20d8eba-9c04-4bc2-8459-c47518fa35e9.png)
+
+
+
+
+6.	HC-SR04 ultrasonic sensor
+
+
+![image](https://user-images.githubusercontent.com/85449693/126840471-ae3dc858-acef-40c4-b4b0-8db24dfe789f.png)
+
+
+
+
+
+
+
+
+
+
